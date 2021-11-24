@@ -1,0 +1,13 @@
+body {
+  background: #adbced; /* fallback for old browsers */
+  margin: 0;
+  padding: 0;
+  color: rgb(0, 0, 0);
+}
+
+.signup {
+  display: flex;
+  align-items: center;
+  margin-left: 35%;
+  margin-top: 5%;
+}
